@@ -1,0 +1,7 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+123,npinochetf,Nicolas,Pinochet,emailExample@example.com,123,12345,0
+124,fsoublette,Felipe,Soublette,emailExample@example.com,124,12345,0
+125,mtapiat,Mauricio,Tapia,emailExample@example.com,125,12345,0
+126,rcaceres,Roberto,Caceres,emailExample@example.com,126,12345,0
+127,Knduran,Kevin,Duran,emailExample@example.com,127,12345,0
+128,vmartinez,Vidal,Martinez,emailExample@example.com,128,12345,0
