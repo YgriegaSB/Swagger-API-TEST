@@ -5,7 +5,7 @@ Para ejecutar las pruebas, debe importar el archivo JSON (arrastrar y soltar el 
 
 -Importar el archivo (botón Import)
 
--Arrastrar y soltar archivo o seleccionarlo (PerfDog-SwaggerUI.json)
+-Arrastrar y soltar archivo o seleccionarlo (swagger-API.json)
 
 -Run collection (Click derecho en la colección y luego Run Collection)
 
